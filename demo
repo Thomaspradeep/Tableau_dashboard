@@ -2,3 +2,4 @@
 2. Created a test text file in same path to reset previous commit
 3. File added into gitub repository using "git add {file name} "
 4. Commit the file and push into gitub master.
+5. Added new line in this file to test revert command.
